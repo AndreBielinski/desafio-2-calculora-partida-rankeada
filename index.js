@@ -42,4 +42,4 @@ function rankeamento(saldoVitorias){
     return posicionamento
 }
 
-console.log(`O herói tem saldo de ${saldoVitorias}, está no nível ${liga}`);
+console.log(`O herói ${jogador} tem saldo de ${saldoVitorias}, está no nível ${liga}`);
